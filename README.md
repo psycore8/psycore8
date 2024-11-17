@@ -1,3 +1,8 @@
+# `whoami /user`
+
+Hey, nice to see you here. My name is Sascha aka psycore8 and here you are on my github profile. IT is my passion and has fascinated me since I was a child. I love getting to the bottom of things, analyzing and understanding them. This is how my path led me into IT security. As an IT security officer, I ensure that IT security is increased and maintained.
+
+![](https://img.shields.io/badge/ISO%2027001-orange?style=for-the-badge&label=certified&labelColor=black) ![](https://img.shields.io/badge/Pentester-orange?style=for-the-badge&label=certified&labelColor=black)
 ## Tech-Stack
 
 ![](https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=kali%20linux&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/delphi-darkblue?style=for-the-badge&logo=delphi&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/python-darkblue?style=for-the-badge&logo=python&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/PHP-darkblue?style=for-the-badge&logo=php&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/HTML-darkblue?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/Debian-darkred?style=for-the-badge&logo=debian&logoColor=white&logoSize=auto) ![](https://img.shields.io/badge/Github-darkred?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)
