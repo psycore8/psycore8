@@ -10,8 +10,8 @@ Developing offensive tools helps me better understand attack vectors. Only when 
 
 ## Repositories
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=shencode) ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=Shellcodes)
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=pywdac) ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=metasploit-cheatsheet)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=shencode)](https://github.com/psycore8/shencode) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=Shellcodes)](https://github.com/psycore8/Shellcodes)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=pywdac)](https://github.com/psycore8/pywdac) [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=psycore8\&repo=metasploit-cheatsheet)](https://github.com/psycore8/metasploit-cheatsheet)
 
 ## Stack
 
