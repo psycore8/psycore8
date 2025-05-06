@@ -1,10 +1,15 @@
 # `GetUserInfo( psycore8 )`
 
-Hey, nice to see you here. My name is **Sascha** aka **psycore8** and here you are on my github profile. IT is my passion and has fascinated me since I was a child. I love getting to the bottom of things, analyzing and understanding them. This is how my path led me into IT security. As an IT security officer, I ensure that IT security is increased and maintained.
+Hi there! My name is Sascha aka **psycore8**. I’m an Information Security Officer with a passion for everything IT — from code to cyber defense.
+Programming in Python isn't just a skill, it's part of how I think and solve problems. Whether I'm building tools, automating workflows, or exploring security mechanisms, Python is often my weapon of choice.
 
-Programming has accompanied me from the very beginning. I started with my first attempts in `C++`, then switched to `Object Pascal`, which I worked with for many years. After a several-year break, I found a new entry point with `Python`, which has been especially useful in IT security.
+🔐 I’m a certified penetration tester with hands-on experience in identifying, exploiting, and mitigating vulnerabilities — always with the goal of making systems more secure and resilient.
 
-Developing offensive tools helps me better understand attack vectors. Only when a security vulnerability is understood on a technical level is it possible to close it effectively.
+🛡️ In my current role, I help shape and enforce security strategies to protect organizations from emerging threats, while staying deeply connected to the technical roots of cybersecurity.
+
+📁 On this GitHub, you’ll find a mix of personal projects, security tools, and research — all reflecting my drive to learn, build, and contribute to the InfoSec community.
+
+Let’s connect, collaborate, and secure the future — one line of code at a time.
 
 ![](https://img.shields.io/badge/ISO%2027001-grey?style=for-the-badge&label=certified&labelColor=black) ![](https://img.shields.io/badge/Pentester-grey?style=for-the-badge&label=certified&labelColor=black)
 
